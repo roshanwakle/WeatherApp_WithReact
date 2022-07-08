@@ -1,0 +1,30 @@
+
+.data{
+    width: 700px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 16%;
+    left: 30%;
+    /* transform: translate(-50%, -50%); */
+    background-color: antiquewhite;
+}
+
+.error{
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 16%;
+    left: 40%;
+    /* transform: translate(-50%, -50%); */
+    background-color: antiquewhite;
+    font-size: 225%;
+    font-weight: 600;
+}
